@@ -52,8 +52,7 @@ The dataset used in this project consists of:
 
 
 #Contributors
+Anjali
 
 
-# License
-This project is open-source and available under the [MIT License](LICENSE).
 
